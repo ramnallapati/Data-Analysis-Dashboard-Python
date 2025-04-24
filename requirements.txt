@@ -1,9 +1,10 @@
 
-python3-numpy
-python3-pandas
-python3-sqlalchemy
-python3-scipy
-python3-sklearn
-python3-seaborn
-python3-matplotlib
-python3-plotly
+streamlit
+numpy
+pandas
+sqlalchemy
+scipy
+scikit-learn
+seaborn
+matplotlib
+plotly
